@@ -1,8 +1,8 @@
 {
     "main": "./app/main.js",
     "devDependencies": {
-        "electron": "^9.2.0",
-        "electron-builder": "^22.8.0"
+        "electron": "^31.0.1",
+        "electron-builder": "^24.13.3"
     },
     "license": "GNU GPLv3",
     "build": {
